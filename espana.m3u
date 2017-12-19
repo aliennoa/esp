@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1, FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1, TVE LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, TVE LA 1 CATALUNYA
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, TVE LA 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1, 24H
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, 24H
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, A3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1, BOING
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+#EXTINF:-1, CUATRO
+https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/e29bae89-dc37-4192-b418-ce8fac320271:BRU/variant/7102f3fe85d681ec1e067acdc53a510b/bandwidth/364000.m3u8
+#EXTINF:-1, TELECINCO
+https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/dc281747-6cad-4e26-b146-f09e1497d2f4:BRU/variant/19d643c32117087c5f34a50219160589/bandwidth/364000.m3u8
+#EXTINF:-1, TELECINCO
+https://dai.google.com/linear/hls/s/event/XqcS7SpLTLWIo_QetmAfnw/stream/2f41166f-3583-4b52-8fc4-d7074ff13917:CHS-staging/variant/19d643c32117087c5f34a50219160589/bandwidth/364000.m3u8
+#EXTINF:-1, MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1, ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, BEMAD
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+#EXTINF:-1, NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, TDP
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_0400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, COCINA
+http://xxedge161.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8?token=WcBVze9H1-ke51bvU5lD0Q&expires=1513563621
+#EXTINF:-1, ENERGY
+https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
+#EXTINF:-1, MOVISTAR ESTRENOS
+http://tepo5.telesport.pw/live/plusestrenos/index.m3u8?token=nbDI8mQauqhAOhmWzSP3_w&expires=1513641997
+#EXTINF:-1, CANAL PLUS D'CINE
+http://tepo7.telesport.pw/live/dcine/index.m3u8?token=8lzDcRsMBcuNI9zzml0CpA&expires=1513645707
+#EXTINF:-1, CINE ESPANOL
+http://tepo6.telesport.pw/live/dcine/index.m3u8?token=v9Xobx-fa8Pfc8MDuVmWYw&expires=1513645898
+#EXTINF:-1, COMEDIA
+http://tepo7.telesport.pw/live/comedia/index.m3u8?token=Xt1AmiHNcvbFbwX40yZQYQ&expires=1513645970
+#EXTINF:-1, PLAYBOY
+http://tepo5.telesport.pw/live/playboy/index.m3u8?token=NhkCRk01h-RdT0JfY2_4XQ&expires=1513646047
+#EXTINF:-1, VENUS
+http://xxedge162.livesports.pw/live/vervenus89d1209cbb91cd49a/index.m3u8?token=U5D-nQPLdvnh8pdBAmhL9Q&expires=1513563314
+#EXTINF:-1, PENTHOUSE
+http://tepo6.telesport.pw/live/redlight/index.m3u8?token=EDFxlrNZq2uV6yyiQ_MO5g&expires=1513646189
